@@ -1,0 +1,62 @@
+@charset "UTF-8"
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: red;
+    height: 80px;
+    color: white;
+    text-align: center;
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main-wrap {
+    background-color: white;
+    height: 500px;
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+}
+
+.sidebar {
+    background-color: green;
+    height: 100%;
+    color: white;
+    text-align: center;
+    width: 200px;
+    float: left;
+}
+
+.main {
+    background-color: blue;
+    height: 100%;
+    color: white;
+    text-align: center;
+    width: 580px;
+    float: left;
+}
+
+.sidebar2 {
+    background-color: green;
+    height: 100%;
+    color: white;
+    text-align: center;
+    width: 200px;
+    float: right;
+}
+
+.footer {
+    background-color: black;
+    height: 80px;
+    color: white;
+    text-align: center;
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}

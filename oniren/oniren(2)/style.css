@@ -1,0 +1,36 @@
+@charset "UTF-8"
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: red;
+    height: 80px;
+    color: white;
+    text-align: center;
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main {
+    background-color: blue;
+    height: 500px;
+    color: white;
+    text-align: center;
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer {
+    background-color: black;
+    height: 80px;
+    color: white;
+    text-align: center;
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}
