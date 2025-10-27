@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+.wrapper {
+    background-color: white;
+    border-radius: 3px;
+    margin: 50px auto;
+    width: 70%;
+    padding: 50px;
+    text-align: center;
+}
+
+.recipe-title {
+    padding: 20px 0;
+    color: darkkhaki;
+    font-weight: 900;
+}
+
+.ingredients-table {
+    width: 70%;
+    margin: 50px auto;
+    border: 0.5px solid gainsboro;
+    border-spacing: 0;
+    text-align: left;
+}
+
+th {
+    border: 0.5px solid gainsboro;
+    padding: 10px;
+    color: antiquewhite;
+    font-weight: 900;
+}
+
+td {
+    border: 0.5px solid gainsboro;
+    padding: 10px;
+
+}
+
+.details-title {
+    color: antiquewhite;
+    font-weight: 900;
+}
+
+.details-table {
+    width: 95%;
+    margin: 50px auto;
+    border: 0.5px solid gainsboro;
+    border-spacing: 0;
+    text-align: left;
+}
+
+.details-order {
+    width: 15%;
+}
